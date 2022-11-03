@@ -3,7 +3,10 @@ from getCSV import diabetes_012_health_indicators, diabete_binary_5050split, dia
 from timeit import default_timer as timer
 from datetime import timedelta
 
-
+"""
+datasets from
+https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+"""
 def main():
 
     model, data = diabetes_012_health_indicators()

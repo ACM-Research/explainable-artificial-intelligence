@@ -7,4 +7,3 @@ https://learnxinyminutes.com/docs/prolog/
 https://www.swi-prolog.org/pldoc/index.html
 
 https://github.com/ACM-Research/explainable-genre-classification
-

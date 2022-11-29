@@ -1,3 +1,3 @@
 ## Applications of Explainable AI in Medicine
 
-![](./static/poster.pdf)
+![](./static/poster.png)

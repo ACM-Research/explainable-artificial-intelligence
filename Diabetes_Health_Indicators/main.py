@@ -4,7 +4,7 @@ from timeit import default_timer as timer
 from datetime import timedelta
 
 """
-datasets from
+datasets from:
 https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 """
 def main():
